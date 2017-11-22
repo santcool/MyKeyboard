@@ -1,0 +1,31 @@
+{
+  "name": "MyKeyboard",
+  "version": "0.1.0",
+  "summary": "自定义键盘，支持下发配置.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/santcool/MyKeyboard",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangwenfeng [张文锋]": "zhangwenfeng@xiaomi.com"
+  },
+  "source": {
+    "git": "https://github.com/santcool/MyKeyboard.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyKeyboard/Classes/**/*",
+  "public_header_files": "Pod/Classes/**/*.h",
+  "dependencies": {
+    "JSONModel": [
+
+    ],
+    "YYKit": [
+
+    ]
+  }
+}

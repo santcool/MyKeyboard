@@ -1,0 +1,76 @@
+{
+    "keyDefaultColor": "0xfefefe",
+    "keyHeight": "60",
+    "keyWidth": "33.33%",
+    "keyLabelFont": "20",
+    "keyLabelColor": "0xffffff",
+    "keyboardBarHeight": "38",
+    "keyboardBarFont" : "14",
+    "keyboardBarTitle": "",
+    "row": [
+      {
+        "items": [
+        {
+            "code": "1",
+            "keyLabel": "1"
+        },
+        {
+            "code": "2",
+            "keyLabel": "2"
+        },
+        {
+            "code": "3",
+            "keyLabel": "3"
+        }
+        ]
+      },
+      {
+        "items": [
+        {
+            "code": "4",
+            "keyLabel": "4"
+        },
+        {
+            "code": "5",
+            "keyLabel": "5"
+        },
+        {
+            "code": "6",
+            "keyLabel": "6"
+        }
+        ]
+      },
+      {
+        "items": [
+          {
+            "code": "7",
+            "keyLabel": "7"
+          },
+          {
+            "code": "8",
+            "keyLabel": "8"
+          },
+          {
+            "code": "9",
+            "keyLabel": "9"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "code": "0",
+            "keyLabel": "0"
+          },
+          {
+            "code": ".",
+            "keyLabel": ".",
+        },{
+            "code": "\b",
+            "keyIcon": "keyboard_delete",
+            "backgroundColor":"0xd5d8db"
+        }
+        ]
+      }
+    ]
+}

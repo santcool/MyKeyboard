@@ -1,0 +1,85 @@
+{
+    "keyDefaultColor": "0xffffff",
+    "keyHeight": "60",
+    "keyWidth": "25%",
+    "keyLabelFont": "20",
+    "keyLabelColor": "0xffffff",
+    "keyboardBarHeight": "38",
+    "keyboardBarFont" : "14",
+    "keyboardBarTitle": " 已检测为安全环境。",
+    "keyboardBarTextColor":"0x6fb89b",
+    "row": [
+      {
+        "items": [
+        {
+            "code": "1",
+            "keyLabel": "1"
+        },
+        {
+            "code": "2",
+            "keyLabel": "2"
+        },
+        {
+            "code": "3",
+            "keyLabel": "3"
+        },
+        {
+            "code": "1000",
+            "fontSize": "17",
+            "keyLabel": "修改密码",
+            "disabled": false,
+            "keyHeight": "120"
+        }
+        ]
+      },
+      {
+        "items": [
+        {
+            "code": "4",
+            "keyLabel": "4"
+        },
+        {
+            "code": "5",
+            "keyLabel": "5"
+        },
+        {
+            "code": "6",
+            "keyLabel": "6"
+        },{
+            "code": "\r",
+            "keyLabel": "确定",
+            "keyHeight": "120"
+        }
+        ]
+      },
+      {
+        "items": [
+          {
+            "code": "7",
+            "keyLabel": "7"
+          },
+          {
+            "code": "8",
+            "keyLabel": "8"
+          },
+          {
+            "code": "9",
+            "keyLabel": "9"
+          }
+        ]
+      },
+      {
+        "items": [
+          {
+            "code": "0",
+            "keyLabel": "0"
+          },
+          {
+            "code": ".",
+            "keyLabel": ".",
+            "backgroundColor":"0xf6f5f4"
+          }
+        ]
+      }
+    ]
+}

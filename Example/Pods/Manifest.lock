@@ -1,0 +1,24 @@
+PODS:
+  - JSONModel (1.7.0)
+  - MyKeyboard (0.1.0):
+    - JSONModel
+    - YYKit
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - MyKeyboard (from `../`)
+
+EXTERNAL SOURCES:
+  MyKeyboard:
+    :path: ../
+
+SPEC CHECKSUMS:
+  JSONModel: 840bc0fcffb24b8454d2c026bf26fea454b8e98d
+  MyKeyboard: e916592c3ff9797f5fd021e43527bf13f1f43d1e
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: cbfe4b5e7dfad30f3df1b643d8d7409ed58cb136
+
+COCOAPODS: 1.3.1
