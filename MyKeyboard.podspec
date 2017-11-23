@@ -36,7 +36,7 @@ TODO: Add long description of the pod here.
   #   'MyKeyboard' => ['MyKeyboard/Assets/*.png']
   # }
 
-  s.public_header_files = 'Pod/Classes/**/*.h'
+  s.public_header_files = 'MyKeyboard/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   s.dependency 'JSONModel'
   s.dependency 'YYKit'
