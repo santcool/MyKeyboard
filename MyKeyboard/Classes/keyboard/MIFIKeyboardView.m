@@ -131,7 +131,7 @@ static int kBtnTagBasic = 10000;
             if ([btnModel.getKeyIconImage isKindOfClass:UIImage.class]) {
                 [button setImage:btnModel.getKeyIconImage forState:UIControlStateNormal];
             } else if ([btnModel.getKeyIconImage isKindOfClass:NSString.class]){
-                [button setImageWithURL:[NSURL URLWithString:btnModel.getKeyIconImage] forState:UIControlStateNormal options:YYWebImageOptionSetImageWithFadeAnimation];
+                [button yy_setImageWithURL:[NSURL URLWithString:btnModel.getKeyIconImage] forState:UIControlStateNormal options:YYWebImageOptionSetImageWithFadeAnimation];
             }
             if (btnModel.disabled && [btnModel.disabled boolValue]) {
                 button.userInteractionEnabled = false;

@@ -39,6 +39,6 @@ TODO: Add long description of the pod here.
   s.public_header_files = 'MyKeyboard/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   s.dependency 'JSONModel'
-  s.dependency 'YYKit'
+  s.dependency 'YYWebImage'
 
 end

@@ -19,12 +19,12 @@
     "ios": "8.0"
   },
   "source_files": "MyKeyboard/Classes/**/*",
-  "public_header_files": "Pod/Classes/**/*.h",
+  "public_header_files": "MyKeyboard/Classes/**/*.h",
   "dependencies": {
     "JSONModel": [
 
     ],
-    "YYKit": [
+    "YYWebImage": [
 
     ]
   }
